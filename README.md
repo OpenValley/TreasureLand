@@ -14,7 +14,8 @@ info :
    http://www.it168.com/redian/libGDX/
 3, http://cocos2d-x.org/
 
-new info :c-geo-opensource
+new info :
+c-geo-opensource , http://www.cgeo.org/ 基于地图的挖宝游戏源代码项目
 ActionBarSherlock
 SlidingMenu（SlidingMenu Demos）
 android-async-http
